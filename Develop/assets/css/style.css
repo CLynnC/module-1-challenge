@@ -9,8 +9,11 @@ body {
 }
 
 .header {
+    position: fixed;
     padding: 20px;
+    width: 100%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 0px;
     background-color: #2a607c;
     color: #ffffff;
 }
