@@ -24,7 +24,8 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #7fd727;
+    text-transform: capitalize;
 }
 
 .header div {
@@ -57,9 +58,10 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    margin-top: auto;
+    background-image: url(../images/digital-marketing-meeting.jpg);
+    background-position-y: 90px;
     background-size: cover;
-    background-position: center;
 }
 
 .float-left {
